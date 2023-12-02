@@ -1,0 +1,8 @@
+<div class = "form-group">
+    <label for="category">Choose a category:</label>
+    <select name="category" id="category">
+        {% for cat in categories %}
+            <option value="{{ cat }}">{{ cat }}</option>
+        {% endfor %}
+    </select>
+</div>
