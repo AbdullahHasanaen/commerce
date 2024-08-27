@@ -25,7 +25,7 @@ This project aims to develop a web-based shopping platform, providing users with
 
 ## Setup Instructions
 
-1. Clone the repository from [GitHub Repository Link].
+1. Clone the repository from (https://github.com/AbdullahHasanaen/commerce).
 2. Install the required dependencies for both the frontend and backend.
 3. Set up the database and configure the connection details.
 4. Configure the payment gateway with the necessary API keys.
@@ -48,6 +48,6 @@ If you would like to contribute to the project, please follow these guidelines:
 
 ## Contact Information
 
-For any inquiries or support, please contact [Your Name] at [Your Email Address].
+For any inquiries or support, please contact Abdullah Hasanen at shymaf74@gmail.com .
 
 Happy coding!
